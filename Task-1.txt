@@ -1,0 +1,24 @@
+        HTTP - Hyper Text Transfer Protocall                                 HTTPS - Hyper Text Transfer Protocall Secured
+  									
+	1.it is a not Secured							1.it is a secured
+	2.written address http://						2.written address https://
+	3.It does not use Secured Session Layer					3.It is a Secured Session Layer
+
+
+2.Difference Between HTTP1.1 vs HTTP2
+
+	HTTP1.1									HTTP2
+	
+	1.HTTP2 is much faster and more reliable than HTTP1			1.HTTP2 avoids network delay by using multiplexing.		
+
+
+3.Objects And Its Internal Representation In JavaScript
+
+*Objects, in JavaScript, is it’s most important data-type and forms the building blocks for modern JavaScript. 
+These objects are quite different from JavaScript’s primitive data-types(Number, String, Boolean, null, undefined and symbol)
+
+*Objects are more complex and each object may contain any combination of these primitive data-types as well as reference data-types
+
+*simply define the property and values inside curly braces as shown below
+	
+Example:  let student = {name: 'Raju', course:'FSD', batch:'b32tamil'};						
