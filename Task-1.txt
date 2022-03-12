@@ -14,11 +14,11 @@
 
 3.Objects And Its Internal Representation In JavaScript
 
-*Objects, in JavaScript, is it’s most important data-type and forms the building blocks for modern JavaScript. 
-These objects are quite different from JavaScript’s primitive data-types(Number, String, Boolean, null, undefined and symbol)
+*Objects, in JavaScript, is itâ€™s most important data-type and forms the building blocks for modern JavaScript. 
+These objects are quite different from JavaScriptâ€™s primitive data-types(Number, String, Boolean, null, undefined and symbol)
 
 *Objects are more complex and each object may contain any combination of these primitive data-types as well as reference data-types
 
 *simply define the property and values inside curly braces as shown below
 	
-Example:  let student = {name: 'Raju', course:'FSD', batch:'b32tamil'};						
+Example:  let student = {name: 'Raju', course:'FSD', batch:'b34tamil'};						
